@@ -24,7 +24,7 @@ Simple initial model of a back-end structure with SOLID principles.
 
 **Install the dependencies**
 ```bash
-$ npm
+$ npm install
 ```
 **Run the project**
 ```bash
