@@ -22,8 +22,10 @@ Simple initial model of a back-end structure with SOLID principles.
 
 
 
+
 **Install the dependencies**
 ```bash
+$ npm install -g typescript
 $ npm install
 ```
 **Run the project**
