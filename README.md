@@ -12,31 +12,21 @@ Simple initial model of a back-end structure with SOLID principles.
 - [express](https://expressjs.com/pt-br/)
 - [typescript](https://www.typescriptlang.org)
 - [ts-node-dev](https://github.com/wclr/ts-node-dev)
-- [uuidv4](https://github.com/thenativeweb/uuidv4)
 
 <h2 id="started">Getting started</h2>
 
 <h4>Requirements</h4>
 
-- [Git](https://git-scm.com) 
-- [Node.js](https://nodejs.org/en/) 
-- [Yarn](https://classic.yarnpkg.com/)
+- [Git](https://git-scm.com)
+- [Node.js](https://nodejs.org/en/)
 
-**Clone the project and access the folder**
-```bash
-$ git clone https://github.com/marchetti2/solid-template.git && cd solid-template
-```
+
 
 **Install the dependencies**
 ```bash
-$ yarn
+$ npm
 ```
 **Run the project**
 ```bash
-$ yarn dev:server
+$ npm start
 ```
-**Well done, project is started!**
-
-<h2 id="license">License</h2>
-
-This is a [RocketSeat](https://rocketseat.com.br) GoStack course project(old journey).
